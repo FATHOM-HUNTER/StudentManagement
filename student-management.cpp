@@ -205,7 +205,7 @@ int main(){
 		//This variable value can be changed according to your requirement 
 		//of the administrator password. 
 
-		string admin_pass = "adminguru"; 
+		string admin_pass = "admin"; 
 		
 		if (strcmp(password,admin_pass.c_str()) == 0){ 
 			cout << "Reg No.	 \t Name \tCSE101\t CSE102" << endl; 
